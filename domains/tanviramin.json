@@ -1,10 +1,9 @@
 {
   "owner": {
-    "username": "dead-Spy"
+    "username": "thossa4",
+    "email": "thossa4@lsu.edu"
   },
   "records": {
-    "A": [
-      "216.198.79.1"
-    ]
+    "CNAME": "thossa4.github.io"
   }
 }
